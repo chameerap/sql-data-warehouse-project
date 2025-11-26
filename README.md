@@ -1,48 +1,11 @@
-Data Warehouse and Analytics Project
-
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
----
-
-## 📌 Project Requirements
-
-### 🏗️ Building the Data Warehouse (Data Engineering)
-
-#### 🎯 Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-
-#### 📚 Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM), provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only — historization is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-
-### 📊 BI: Analytics & Reporting (Data Analytics)
-
-#### 🎯 Objective
-Develop SQL-based analytics to deliver detailed insights into:
-
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling data-driven strategic decision-making.
-
-Below is a **continued, professional, GitHub-optimized README** that extends your project into a full, polished, portfolio-ready format.
-
----
-
 # 📦 Data Warehouse and Analytics Project
 
-A complete end-to-end data warehousing and analytics solution built using **SQL Server**, designed to demonstrate industry best practices in **data engineering** and **data analytics**.
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
+This project demonstrates a comprehensive data warehousing and analytics solution, from build using built using **SQL Server**, designed to demonstrate industry best practices in **data engineering** and **data analytics**. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 
 ## 📌 Project Requirements
-
-*(Already completed — extended with additional sections)*
 
 ### 🏗️ Building the Data Warehouse (Data Engineering)
 
